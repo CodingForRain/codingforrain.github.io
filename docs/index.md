@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# 设计模式
 
-You can use the [editor on GitHub](https://github.com/CodingForRain/codingforrain.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## 创建型
+1. 单例模式（Singleton）
+2. 简单工厂模式（Simple Factory）
+3. 工厂方法模式（Factory Method）
+4. 抽象工厂模式（Abstract Factory）
+5. 创建者模式（Builder）
+6. 原型模式（Prototype）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 结构型
+1. 适配器模式（Adapter）
+2. 代理模式（Proxy）
+3. 装饰模式（Decorator）
+4. 桥梁模式/桥接模式（Bridge）
+5. 组合模式（Composite）
+6. 享元模式（Flyweight）
+7. 外观模式/门面模式（Facade门面模式）
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodingForRain/codingforrain.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 行为型
+1. 模板方法模式（Template Method）
+2. 观察者模式（Observer）
+3. 状态模式（State）
+4. 策略模式（Strategy）
+5. 职责链模式（Chain of Responsibility）
+6. 命令模式（Command）
+7. 访问者模式（Visitor）
+8. 调停者模式（Mediator）
+9. 备忘录模式（Memento）
+10. 迭代器模式（Iterator）
+11. 解释器模式（Interpreter）
